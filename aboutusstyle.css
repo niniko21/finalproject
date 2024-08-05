@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+* {
+margin: auto;
+}
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+  text-decoration: none;
+}
+img {
+  width: 125px;
+  height: 44px;
+}
+
+.navcomp a {
+  padding: 16px;
+  width: 43px;
+  height: 19px;
+  color: #525560;
+  font-size: 16px;
+  text-decoration: none;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 500;
+}
+
+.DNT {
+  width: 115px;
+  height: 43px;
+  border-radius: 4px;
+  color: white;
+  background-color: #1d2130;
+  border: 2px solid #ffffff;
+  cursor: pointer;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  font-weight: 500;
+}
+.navline {
+  padding: 20px;
+}
+.Ourjourneysection {
+  padding: 25px;
+  border-radius: 20px;
+    width: 1280px;
+    height: 500px;
+    background-color: #F2C94C;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.Ourtxts h3{
+padding: 20px;
+font-family: Roboto;
+font-size: 16px;
+font-weight: 700;
+line-height: 18.75px;
+letter-spacing: 2px;
+text-align: left;
+}
+.Ourtxts h1 {
+  font-family: Roboto;
+  font-size: 48px;
+  font-weight: 700;
+  line-height: 57.6px;
+  text-align: left;
+  padding: 20px;
+  
+}
+.lorm{
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25.6px;
+  text-align: left; 
+padding: 20px;
+color: #1D2130;
+
+
+}
+.statsrow{ 
+margin-right: 350px;
+align-items: center;
+display: flex;
+justify-content: space-around;
+}
+.statsrow1 h3{
+  font-family: Roboto;
+  font-size: 24px;
+  font-weight: 500;
+
+  text-align: left;
+  }
+ .statsrow2 h3{
+  font-family: Roboto;
+font-size: 24px;
+font-weight: 500;
+
+text-align: left;
+}
+.statsrow3 h3{
+font-family: Roboto;
+font-size: 24px;
+font-weight: 500;
+text-align: left;
+
+}
+.dnt{
+font-family: Roboto;
+font-size: 12px;
+margin-bottom: 60px;
+margin-left: 18.5px;
+font-weight: 500;
+line-height: 19.2px;
+}
+ 
+.Ourimg img {
+  Width:612px;
+  Height:448px;
+}
